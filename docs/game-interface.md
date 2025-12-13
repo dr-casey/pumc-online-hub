@@ -19,6 +19,17 @@ The interface automatically adjusts to your screen size, collapsing the panels a
 5. Log/Entities divider (horizontal) - sliding to an extreme edge fully hides
 6. Log Area Writing divider (vertical)
 
+### User-Interface Settings
+
+![settings-ui](assets/screenshots/settings-ui.png)
+
+- Full screen: Hides borders (platform specific)
+- Borderless mode: Hides window borders (desktop only)
+- Use large fonts slider: Adjust the size of the text in the interface for better readability (limited to in-game text)
+- Panels always collapsed: Keep the Oracle and Plot Nodes as rollout panels instead of expanding on large screens.
+- Log area always as tab: Keeps the log area as a tab instead of a split view with entities on large screens.
+
+
 ### Monitors
 Panels are shown side by side, giving you a broad view of your adventure. Starting at 1920x1080 resolution, all panels are visible at once. Typically using the app in window mode allows for multi-tasking, and fits usually the oracles panel to become visible and hides the plot nodes instead.
 
