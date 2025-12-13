@@ -32,6 +32,23 @@ You move forward on the Plot Track by playing Plot Beats. These can be:
 
 Each Plot Beat can be a scene, event, or turning point. Use them to mark progress, celebrate victories, or introduce complications.
 
+## In-Game Plot Track Panel
+
+The Plot Track panel gives you a visual map of your story's structure and progress. It helps you see where you are in the adventure and what comes next.
+
+### What You Can Do
+- **View Structure:** See your story's main beats, scenes, or chapters laid out in order.
+- **Add & Move Points:** Add new plot points, move them around, or edit their details as your story unfolds.
+- **Customize:** Choose different plot track types (e.g., Standard, Dungeon, Journey) to match your adventure's style.
+- **Focus:** Highlight the current scene or beat to keep everyone on track.
+
+### In-Game Tips
+- Use the plot track to plan ahead or improvise new twists.
+- Update the track as your story changes—it's flexible and adapts to your needs.
+- The plot track is always saved automatically.
+
+*Add annotated screenshots to illustrate adding, moving, and focusing plot points.*
+
 ## Tips for Using Plot Tracks
 - Don’t be afraid to skip, repeat, or change beats as your story evolves.
 - Use the Plot Track as a guide, not a constraint.

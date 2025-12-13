@@ -17,6 +17,23 @@ Plot Nodes are flexible, freeform entries you create to represent:
 - Random Prompts may invoke Plot Nodes for unexpected twists.
 - Keep your list updated to reflect the current state of your story.
 
+## In-Game Plot Nodes Panel
+
+The Plot Nodes Panel helps you track the most important story beats, events, and their connections. It's your tool for managing the web of your adventure.
+
+### What You Can Do
+- **Add Nodes:** Create new plot nodes for major events, mysteries, or turning points.
+- **Edit & Connect:** Update node details, link them to other nodes, and visualize relationships.
+- **Track Progress:** Mark nodes as resolved, ongoing, or pending to see your story's flow.
+- **Organize:** Group nodes by act, theme, or character for clarity.
+
+### In-Game Tips
+- Use plot nodes to keep track of unresolved questions and future story hooks.
+- Regularly update node status as your adventure progresses.
+- The plot nodes panel is always saved automatically.
+
+*Add annotated screenshots to illustrate adding, connecting, and updating plot nodes.*
+
 ## Examples
 - **Game Element:** "A city ruled by sentient machines."
 - **Obstacle:** "A deadly sandstorm blocks the only road."

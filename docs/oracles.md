@@ -17,6 +17,23 @@ An Oracle is a randomizer that helps you answer questions, resolve uncertainty, 
 3. Interpret the result in the context of your story.
 4. Use the answer to inspire your next scene or decision.
 
+## In-Game Oracles Panel
+
+The Oracles Panel is your source of inspiration and random answers. Use it to resolve questions, spark ideas, or add surprises to your story.
+
+### What You Can Do
+- **Ask Questions:** Type or select a question and let the oracle provide a random answer.
+- **Draw Prompts:** Get random story prompts, twists, or outcomes to keep the adventure moving.
+- **Use Dice & Cards:** Roll dice or draw cards for unpredictable results.
+- **Customize Decks:** Choose which oracles, decks, or tables to use based on your game's needs.
+
+### In-Game Tips
+- Use oracles when you're unsure what happens next or want to add drama.
+- Combine multiple oracles for complex questions.
+- The oracles panel is always available and doesn't interrupt your main play area.
+
+*Add annotated screenshots to show using oracles, drawing prompts, and customizing decks.*
+
 ## Example Questions
 - Does the guard notice me?
 - Is the weather getting worse?

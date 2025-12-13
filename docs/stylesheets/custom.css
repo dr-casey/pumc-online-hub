@@ -8,8 +8,22 @@
   color: #b67616 !important;
 }
 
-/* First-level and second-level headers */
-.md-typeset h1,
+/* Header colors: h1-h6, all brown tones with slight variation */
+.md-typeset h1 {
+  color: #b67616; /* Deep brown (main) */
+}
 .md-typeset h2 {
-  color: #b67616;
+  color: #c6892f; /* Slightly lighter brown */
+}
+.md-typeset h3 {
+  color: #d19c4b; /* Lighter brown */
+}
+.md-typeset h4 {
+  color: #e0b36a; /* Even lighter brown */
+}
+.md-typeset h5 {
+  color: #eac98a; /* Pale brown */
+}
+.md-typeset h6 {
+  color: #f3dfb0; /* Very light brown */
 }

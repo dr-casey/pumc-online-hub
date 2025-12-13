@@ -45,18 +45,23 @@ extra_css:
   - stylesheets/custom.css
 nav:
   - Welcome Page: index.md
+  - PUM Companion: pum-companion.md
   - About the Unfolding Machines: about-pum.md
-  - Playing PUM:
-      - Plot Tracks: plot-tracks.md
-      - Plot Nodes: plot-nodes.md
-      - Plot Focus: plot-focus.md
-      - Oracles: oracles.md
-      - Game Concepts: game-concepts.md
-  - PUM Companion:
-      - What is PUM Companion?: pum-companion.md
-      - Dice Formula Expressions: dice-formulas.md
-      - Random Tables: random-tables.md
-      - Decks & Cards: decks-cards.md
-      - Markdown Text Styling: markdown-styling.md
-  - Information:
-      - Get the games: get-the-games.md
+  - Get the games (Links): get-the-games.md
+  - PUM Companion Docs:
+    - Main Menu: pum-main-menu.md
+    - Guided Setup: pum-new-game-wizard.md
+    - Analog Mode: pum-analog-mode.md
+    - Log Panel: log-panel.md
+    - Entities Overview: entities-overview.md
+    - Plot Tracks: plot-tracks.md
+    - Plot Nodes: plot-nodes.md
+    - Plot Focus: plot-focus.md
+    - Oracles: oracles.md
+    - Application Settings: pum-application-settings.md
+    - Saving & Loading: pum-saving-loading.md
+    - Cloud Backup: pum-cloud-backup.md
+    - Dice Formula Expressions: dice-formulas.md
+    - Random Tables: random-tables.md
+    - Decks & Cards: decks-cards.md
+    - Markdown Text Styling: markdown-styling.md
