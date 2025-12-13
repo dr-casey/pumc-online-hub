@@ -2,7 +2,7 @@
   <img src="assets/logos/pumc_icon_512.png" alt="PUM Companion Logo" width="120" style="margin-bottom: 0.5em;" />
 </p>
 
-<h1 style="text-align: center;">PUM Companion Online Hub</h1>
+<h1 style="text-align: center;">PUM Companion Online Manual</h1>
 
 <div class="pumc-intro-box" style="text-align: center;">
   This is a knowledge base for <b>PUM Companion</b>—the app to play Plot Unfolding Machine. Here you’ll find everything you need to master solo RPGs, storytelling, and journaling with the app, whether you’re a curious beginner or a seasoned solo adventurer.
@@ -12,7 +12,7 @@
   <ul style="list-style: none; margin: 0 auto; padding: 0; display: inline-block; text-align: left;">
     <li style="margin: 0; padding: 0;">💬 <a href="https://discord.gg/k2rQMa33Kq">Join the PUM Discord Community</a></li>
     <li style="margin: 0; padding: 0;">🐞 <a href="https://github.com/Unfolding-Machines/pumc-info-hub/issues">Feature Requests, Bugs, Inquiries</a></li>
-    <li style="margin: 0; padding: 0;">🚀 <a href="https://github.com/Unfolding-Machines/pumc-info-hub">Improve the PUMC Online Hub on GitHub</a></li>
+    <li style="margin: 0; padding: 0;">🚀 <a href="https://github.com/Unfolding-Machines/pumc-info-hub">Improve the PUMC Online Manual on GitHub</a></li>
     <li style="margin: 0; padding: 0;">🌐 <a href="https://www.unfolding-machines.com">Unfolding Machines Website &amp; Blog</a></li>
   </ul>
 </div>

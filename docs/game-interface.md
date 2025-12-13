@@ -71,7 +71,7 @@ Clicking the menu button (☰) in the top bar opens a panel with helpful options
 
 - **Activate PUMC Update:** Activate or validate your PUM Companion installation (Windows non-Store version).
 - [Join Us on Discord](https://discord.gg/k2rQMa33Kq) Open the official Discord community for help, sharing, and connecting.
-- **PUMC Online Hub:** This knowledge base
+- **PUMC Online Manual:** This knowledge base
 - **About:** View app info, creators, contributors, and open source attributions.
 - **Playing Instructions:** Access the in-app guide for gameplay and features.
 - [Keyboard Shortcuts](#keyboard-shortcuts): View all available keyboard shortcuts (desktop only).
