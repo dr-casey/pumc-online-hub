@@ -11,8 +11,8 @@
 <div style="padding-top: 1.5em; text-align: center;">
   <ul style="list-style: none; margin: 0 auto; padding: 0; display: inline-block; text-align: left;">
     <li style="margin: 0; padding: 0;">💬 <a href="https://discord.gg/k2rQMa33Kq">Join the PUM Discord Community</a></li>
-    <li style="margin: 0; padding: 0;">🐞 <a href="https://github.com/Unfolding-Machines/pumc-info-hub/issues">Feature Requests, Bugs, Inquiries</a></li>
-    <li style="margin: 0; padding: 0;">🚀 <a href="https://github.com/Unfolding-Machines/pumc-info-hub">Improve the PUMC Online Manual on GitHub</a></li>
+    <li style="margin: 0; padding: 0;">🐞 <a href="https://github.com/Unfolding-Machines/pumc-online-hub/issues">Feature Requests, Bugs, Inquiries</a></li>
+    <li style="margin: 0; padding: 0;">🚀 <a href="https://github.com/Unfolding-Machines/pumc-online-hub">Improve the PUMC Online Manual on GitHub</a></li>
     <li style="margin: 0; padding: 0;">🌐 <a href="https://www.unfolding-machines.com">Unfolding Machines Website &amp; Blog</a></li>
   </ul>
 </div>

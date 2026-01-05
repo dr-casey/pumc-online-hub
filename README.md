@@ -10,7 +10,7 @@ This repository serves as the **PUM Companion Online Manual website**, your go-t
 
 Dive into comprehensive guides, tutorials, and detailed explanations of how to best utilize the PUM Companion app and the Plot Unfolding Machine system for your solo RPG campaigns:
 
-[**PUM Companion Online Manual Website**](https://unfolding-machines.github.io/pumc-info-hub)
+[**PUM Companion Online Manual Website**](https://unfolding-machines.github.io/pumc-online-hub/)
 
 ---
 
@@ -18,7 +18,7 @@ Dive into comprehensive guides, tutorials, and detailed explanations of how to b
 
 We're constantly striving to improve the PUM Companion and the Online Hub. Your feedback is invaluable! If you have feature requests, bug reports, or any other inquiries, please don't hesitate to submit them through our GitHub Issues page:
 
-[**Submit Feature Requests, Bugs, and Inquiries**](https://github.com/Unfolding-Machines/pumc-info-hub/issues)
+[**Submit Feature Requests, Bugs, and Inquiries**](https://github.com/Unfolding-Machines/pumc-online-hub/issues)
 
 ---
 
