@@ -98,6 +98,16 @@ There are three settings for the cinematic overlay:
 
 ---
 
+## AI Assistant Tools
+
+If you have the [AI Assistant](ai-assistant.md) enabled, you will find additional tools in the top bar and throughout the interface:
+
+- **AI Settings (Robot Icon):** Configure your game's AI personality, writing style, and image aesthetic.
+- **Discuss (Chat Icon):** Open a dedicated chat panel to brainstorm ideas, ask for world-building advice, or get creative input from the AI.
+- **Magic Wand Icons:** Found next to many text fields, these allow the AI to suggest content based on your current game context.
+
+---
+
 ## Game Search
 
 Search through your journal entries and entity descriptions, as well as quick-access to characters and locations.

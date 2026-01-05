@@ -32,6 +32,13 @@ The Oracles Panel is your source of inspiration and random answers. Use it to re
 - Combine multiple oracles for complex questions.
 - The oracles panel is always available and doesn't interrupt your main play area.
 
+## AI-Enhanced Oracles
+
+If you have the [AI Assistant](ai-assistant.md) enabled, you can take your oracle usage to the next level:
+
+- **Answer Directly:** Instead of just getting a "Yes/No" or a random word, you can ask a full question and have the AI provide a narrative answer. The AI rolls the underlying oracles for you and interprets them into a response that fits your current story context.
+- **Build Narrative:** After rolling any oracle or random table, you can use the "Build Narrative" tool to have the AI help you interpret the result. It looks at your current plot, characters, and the oracle result to suggest exactly how that result manifests in your story.
+
 *Add annotated screenshots to show using oracles, drawing prompts, and customizing decks.*
 
 ## Example Questions

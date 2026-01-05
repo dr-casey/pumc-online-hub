@@ -53,6 +53,8 @@ Choose your story’s structure (Standard, Improvised, Dungeon, etc.) and focus 
 
 If you have the [AI Assistant](ai-assistant.md) (Premium Extra) enabled, you can use the **Robot Icon** at the top of the wizard to configure your AI preferences for this game. This allows the AI to help you generate plot nodes, characters, and locations that fit your specific genre and writing style.
 
+You can also use the **Draft Game** feature to have the AI automatically fill in your plot scope, characters, locations, and initial plot nodes based on a simple prompt, giving you a complete starting point for your adventure.
+
 You can also find **Magic Wand** icons next to many text fields to have the AI suggest content based on what you've already written.
 
 ---

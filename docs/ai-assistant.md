@@ -69,6 +69,18 @@ When creating a new Character, Location, or Compendium, you can provide just a b
 ### 🎭 Plot Node Generation
 Enhance your Plot Unfolding Machine with World Building and Obstacles for your story. The AI can suggest new plot nodes based on your game's genre and current narrative, helping to keep the story dynamic and engaging.
 
+### 🎲 Build Narrative
+Interpret the results of Oracles, Random Tables, and Dice Rolls within the context of your story. The AI helps you weave these random elements into a cohesive narrative beat, making sense of the "chaos" of the dice.
+
+### 💬 Answer Directly
+Ask the AI a direct question about your world or current situation. It uses the underlying Oracle systems to determine the outcome and then provides a narrative answer that fits your story's context.
+
+### 🗣️ Discuss
+A dedicated AI Chat feature for brainstorming. You can talk to the AI to bounce ideas, ask for suggestions on world-building, or get creative input on where your story could go next.
+
+### 📝 Draft Game
+Found in the New Game Wizard, this feature allows you to create a complete game proposal in seconds. The AI will fill in your plot scope, suggest key characters and locations, and even draft initial plot nodes to get your adventure started immediately.
+
 ### 🖼️ Image Generation
 Either indirectly through creating Entities and Plot Nodes, or directly within a character or a location, you can generate images that match your specified style and description. The AI will create visuals that bring your world to life.
 
