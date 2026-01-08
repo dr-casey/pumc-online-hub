@@ -26,11 +26,11 @@ Find all official Unfolding Machine products, apps, and community resources here
 
 ## 🎲 Extras & Add-ons
 
-- [AI Assistant](https://jeansenvaars.itch.io/pum-companion)
 - [Extra Decks & Cards](https://jeansenvaars.itch.io/pum-companion-extra-decks-cards)
 - [Crystal Theme](https://jeansenvaars.itch.io/pumc-crystal)
 - [Builder Widgets](https://jeansenvaars.itch.io/pumc-builder-widgets)
 - [3D Dice](https://jeansenvaars.itch.io/pumc-3d-dice)
+- [AI Assistant](https://jeansenvaars.itch.io/pumc-ai-assistant)
 
 ## 🛠️ Other Digital Tools
 

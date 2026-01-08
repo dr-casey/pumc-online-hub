@@ -1,11 +1,14 @@
 # AI Provider Tutorial  
-> **Disclaimer:** *This tutorial covers ONLY provider specific instructions. For all other AI settings, please read [AI Assistant](ai-assistant.md)*
+
+> **Disclaimer:** *This tutorial is to configure AI Providers for the AI Assistant Extra. Please read [AI Assistant](ai-assistant.md) first*
+
+
 ## Overview  
-1. Google (Images and Text)
-2. OpenAI (Images and Text)
-3. Replicate (Images Only) (Advanced)
-4. HuggingFace (Images and Text) (Advanced)
-5. OpenRouter (Images and Text)  (Advanced)
+1. Google
+2. OpenAI
+3. Replicate (Advanced Mode)
+4. HuggingFace (Advanced Mode)
+5. OpenRouter (Advanced Mode)
 
 ## 1. Google
 - **Step 1:** Login to your Google account or create a [Google AI Studio Account](https://aistudio.google.com/app/).
